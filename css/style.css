@@ -1,0 +1,84 @@
+.header {
+  height: 60px;
+  width: 100%;
+  background: #32A7B8;
+  line-height: 60px;
+}
+.header .left {
+  float: left;
+  margin-left: 50px;
+}
+.header .right {
+  float: right;
+}
+.header .right ul li {
+  float: left;
+  list-style: none;
+  margin-left: 5px;
+  margin-right: 30px;
+}
+.nav {
+  height: 800px;
+  widows: 100%;
+  background: #32A7B8;
+  position: relative;
+}
+.nav .container {
+  text-align: center;
+  padding: 100px;
+}
+.nav .container h1 {
+  font-size: 60px;
+}
+.nav .container p {
+  font-size: 20px;
+}
+.nav .container form .btn-warning {
+  background: blue;
+}
+.nav .container .box {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.nav .container .box1 {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.divider_line {
+  width: 200px;
+  border-bottom: 2px solid #32A7B8;
+  margin: 2.5rem auto;
+}
+.nav1 {
+  width: 100%;
+  height: 300px;
+  background: none;
+}
+.nav1 span {
+  text-align: center;
+  padding-top: 100px;
+  display: block;
+  font-size: 50px;
+  font-weight: bold;
+}
+.nav1 .text-center {
+  font-size: 20px;
+}
+.col-md-7 {
+  font-size: 28px;
+}
+.col-md-7 p {
+  padding: 45px;
+}
+.foot form {
+  text-align: center;
+}
+.foot p {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
